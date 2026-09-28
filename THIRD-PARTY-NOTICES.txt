@@ -1,0 +1,28 @@
+The SAGE Toolbox includes third-party software components that are 
+distributed under their individual licenses which can differ from the 
+license of this project.
+
+
+File: @sage/Reg_l1_ls_Koh.m 
+
+The SAGE Toolbox includes Reg_l1_ls_Koh (short 'l1_ls'), a MATLAB solver
+for large-scale l1-regularized least-square problems. 
+    * Authors: Kwangmoo Koh, Seung-Jean Kim, and Stephen Boyd
+    * License: GNU General Public License, Version 2.0 (GPL-2.0) 
+    * Source: https://www.stanford.edu/~boyd/l1_ls/
+
+The original l1_ls copyright notice is:
+
+Copyright 2008 Kwangmoo Koh, Seung-Jean Kim, and Stephen Boyd
+
+For the complete terms and conditions applicable to l1_ls, see 
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt. 
+
+
+License scope
+
+Unless otherwise stated in a file or in this notice, the original code in 
+this project is licensed under the GNU General Public License 2.0.
+
+The presence of third-party components does not imply that those components 
+are licensed under GNU General Public License 2.0.

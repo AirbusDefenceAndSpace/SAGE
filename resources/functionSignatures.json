@@ -1,0 +1,49 @@
+{
+    "_schemaVersion": "1.0.0",
+
+    "sage.sage": {
+        "inputs": [
+            {
+                "name": "sagedata",
+                "kind": "required"
+            },
+            {
+                "name": "sageoptions",
+                "kind": "ordered"
+            }
+        ]
+    },
+
+    "sage.disp": {
+        "inputs": [
+            {
+                "name": "sageObj",
+                "kind": "required",
+                "type": ["sage"]
+            },
+            {
+                "name": "mode",
+                "kind": "ordered",
+                "type": ["char", "choices={'physical','normalized'}"],
+                "purpose": "Display mode (default: 'physical')"
+            }
+        ]
+    },
+
+    "sage.coefs": {
+        "inputs": [
+            {
+                "name": "sageObj",
+                "kind": "required",
+                "type": ["sage"]
+            },
+            {
+                "name": "mode",
+                "kind": "ordered",
+                "type": ["char", "choices={'physical','normalized'}"],
+                "purpose": "Display mode (default: 'physical')"
+            }
+        ]
+    }
+    
+}

@@ -1,0 +1,8 @@
+SAGE Toolbox Authors
+
+For copyright and licensing purposes, the persons listed below are included
+in the term “SAGE Toolbox Authors” as used in LICENSE.txt.
+
+Frederik Thiele (TU Dresden) <frederik.thiele@tu-dresden.de>
+Emily Burgin (TU Dresden) <emily.burgin@tu-dresden.de> 
+Charles Dehombreux (Airbus) <charles.dehombreux@airbus.com> 
